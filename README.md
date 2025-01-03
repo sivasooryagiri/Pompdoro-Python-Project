@@ -7,3 +7,4 @@ A simple and effective **Pomodoro Timer** built using **Python** and **Tkinter**
 - A 20-minute long break after every 4 focus sessions.
 - Easy-to-use interface to track study time effectively.
 
+![Example](example.png)
